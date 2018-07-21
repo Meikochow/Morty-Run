@@ -1,0 +1,6 @@
+<body onload="startGame()">
+  <br/>
+  <button  id="startOver"onclick="restart()">RESTART </button>
+  </body>
+<p>Press Spacebar or thouch screen to jump</p>
+<p>Coded by Victor Cojocaru</p>
